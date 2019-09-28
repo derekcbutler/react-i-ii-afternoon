@@ -1,0 +1,46 @@
+.black{
+    width: 100vw;
+    height: 90vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.body{
+    display: flex;
+    width: 75vw;
+    height: 70%;
+    background-color: white;
+    flex-direction: column;
+    
+}
+.number-tracker{
+    text-align: right;
+    flex-direction: row;
+    font-size: 25px;
+    font-weight: 800;
+
+}
+.full-name{
+    margin-top: 0;
+    font-size: 25px;
+    font-weight: 800;
+
+}
+
+div>article{
+    height: 90%;
+    align-content: flex-start;
+
+}
+.from{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.buttons {
+    bottom: 0;
+
+}
